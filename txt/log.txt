@@ -1,0 +1,381 @@
+2019-03-06 23:09:49 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:09:50 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:09:50 decorator(DEBUG) - <function send_http at 0x000000000546EAE8> 耗时:0.21s
+2019-03-06 23:51:42 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:42 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:42 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.24s
+2019-03-06 23:51:42 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:42 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:42 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.24s
+2019-03-06 23:51:42 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:43 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:43 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.25s
+2019-03-06 23:51:43 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:43 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:43 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.25s
+2019-03-06 23:51:43 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:43 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:43 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.19s
+2019-03-06 23:51:43 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/48c69de6720605cffb96fec58b383f5e.svg
+2019-03-06 23:51:43 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:43 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.13s
+2019-03-06 23:51:43 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:43 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:43 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.18s
+2019-03-06 23:51:43 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:44 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:44 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.18s
+2019-03-06 23:51:44 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:44 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:44 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.18s
+2019-03-06 23:51:44 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:44 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:44 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.19s
+2019-03-06 23:51:44 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:44 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:44 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.18s
+2019-03-06 23:51:44 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:44 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:44 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.19s
+2019-03-06 23:51:44 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:45 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:45 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.18s
+2019-03-06 23:51:45 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:45 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:45 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.19s
+2019-03-06 23:51:45 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:45 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:45 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.18s
+2019-03-06 23:51:45 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:45 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:45 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.19s
+2019-03-06 23:51:45 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/ef6ed4846e1531923f99d63a3d260216.svg
+2019-03-06 23:51:45 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:45 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.18s
+2019-03-06 23:51:45 util.http(DEBUG) - 当前请求[None]:http://s3plus.meituan.net/v1/mss_0a06a471f9514fc79c981b5466f56b91/svgtextcss/48c69de6720605cffb96fec58b383f5e.svg
+2019-03-06 23:51:46 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-03-06 23:51:46 decorator(DEBUG) - <function send_http at 0x000000000547EAE8> 耗时:0.16s
+2019-07-23 11:31:44 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-23 11:31:44 decorator(DEBUG) - <function send_http at 0x10f7921e0> 耗时:0.01s
+2019-07-23 11:31:44 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-23 11:31:44 decorator(DEBUG) - <function City.get at 0x10f7c4ae8> 耗时:0.01s
+2019-07-23 11:31:44 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-23 11:31:44 decorator(DEBUG) - <function send_http at 0x10f7921e0> 耗时:0.0s
+2019-07-23 11:31:44 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-23 11:31:44 decorator(DEBUG) - <function City.get_map at 0x10f7c4bf8> 耗时:0.0s
+2019-07-23 11:32:30 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-23 11:32:30 decorator(DEBUG) - <function send_http at 0x10e3a6158> 耗时:0.01s
+2019-07-23 11:32:30 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-23 11:32:30 decorator(DEBUG) - <function City.get at 0x10e3d6a60> 耗时:0.01s
+2019-07-23 11:32:30 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-23 11:32:30 decorator(DEBUG) - <function send_http at 0x10e3a6158> 耗时:0.0s
+2019-07-23 11:32:30 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-23 11:32:30 decorator(DEBUG) - <function City.get_map at 0x10e3d6b70> 耗时:0.0s
+2019-07-23 11:32:30 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-23 11:32:30 decorator(DEBUG) - <function send_http at 0x10e3a6158> 耗时:0.0s
+2019-07-23 11:32:30 city(INFO) - 搜索 南宁-美食-朝阳广场地铁站->南宁 关于 朝阳广场地铁站 的结果有4页.
+2019-07-23 11:32:30 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第1页 20 条数据.
+2019-07-23 11:32:30 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/93600792/review_all
+2019-07-23 11:32:34 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-07-23 11:32:34 decorator(DEBUG) - <function send_http at 0x10e3a6158> 耗时:4.43s
+2019-07-23 11:32:34 shop(INFO) - 成功获取店铺:93600792 首页.
+2019-07-23 11:32:34 decorator(DEBUG) - <function Shop.get at 0x10e3a69d8> 耗时:4.43s
+2019-07-23 11:32:35 decorator(DEBUG) - <function get_city_shop_info at 0x10e3ac840> 耗时:5.21s
+2019-07-23 11:32:35 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/91891330/review_all
+2019-07-23 11:32:38 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-07-23 11:32:38 decorator(DEBUG) - <function send_http at 0x10e3a6158> 耗时:2.84s
+2019-07-23 11:32:38 shop(INFO) - 成功获取店铺:91891330 首页.
+2019-07-23 11:32:38 decorator(DEBUG) - <function Shop.get at 0x10e3a69d8> 耗时:2.84s
+2019-07-23 11:32:38 decorator(DEBUG) - <function get_city_shop_info at 0x10e3ac840> 耗时:3.43s
+2019-07-23 11:32:38 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/8929689/review_all
+2019-07-23 11:32:41 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-07-23 11:32:41 decorator(DEBUG) - <function send_http at 0x10e3a6158> 耗时:2.7s
+2019-07-23 11:32:41 shop(INFO) - 成功获取店铺:8929689 首页.
+2019-07-23 11:32:41 decorator(DEBUG) - <function Shop.get at 0x10e3a69d8> 耗时:2.7s
+2019-07-23 11:32:41 decorator(DEBUG) - <function get_city_shop_info at 0x10e3ac840> 耗时:3.19s
+2019-07-23 11:32:42 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/130645969/review_all
+2019-07-23 11:32:46 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-07-23 11:32:46 decorator(DEBUG) - <function send_http at 0x10e3a6158> 耗时:4.46s
+2019-07-23 11:32:46 shop(INFO) - 成功获取店铺:130645969 首页.
+2019-07-23 11:32:46 decorator(DEBUG) - <function Shop.get at 0x10e3a69d8> 耗时:4.46s
+2019-07-23 11:32:47 decorator(DEBUG) - <function get_city_shop_info at 0x10e3ac840> 耗时:5.23s
+2019-07-23 11:32:47 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/97032559/review_all
+2019-07-23 11:32:50 util.http(DEBUG) - 请求成功:[代理:None,UA:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36]
+2019-07-23 11:32:50 decorator(DEBUG) - <function send_http at 0x10e3a6158> 耗时:3.03s
+2019-07-23 11:32:50 shop(INFO) - 成功获取店铺:97032559 首页.
+2019-07-23 11:32:50 decorator(DEBUG) - <function Shop.get at 0x10e3a69d8> 耗时:3.03s
+2019-07-23 11:32:50 decorator(DEBUG) - <function get_city_shop_info at 0x10e3ac840> 耗时:3.59s
+2019-07-23 11:32:50 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/77915133/review_all
+2019-07-23 13:38:29 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-23 13:38:29 decorator(DEBUG) - <function send_http at 0x10f185d08> 耗时:0.01s
+2019-07-23 13:38:29 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-23 13:38:29 decorator(DEBUG) - <function City.get at 0x10f1b56a8> 耗时:0.01s
+2019-07-23 13:38:29 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-23 13:38:29 decorator(DEBUG) - <function send_http at 0x10f185d08> 耗时:0.0s
+2019-07-23 13:38:29 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-23 13:38:29 decorator(DEBUG) - <function City.get_map at 0x10f1b57b8> 耗时:0.0s
+2019-07-23 13:38:29 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-23 13:38:29 decorator(DEBUG) - <function send_http at 0x10f185d08> 耗时:0.01s
+2019-07-23 13:38:29 city(INFO) - 搜索 南宁-美食-朝阳广场地铁站->南宁 关于 朝阳广场地铁站 的结果有4页.
+2019-07-23 13:38:29 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第1页 20 条数据.
+2019-07-23 13:38:29 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/93600792/review_all 缓存命中
+2019-07-23 13:38:29 decorator(DEBUG) - <function send_http at 0x10f185d08> 耗时:0.01s
+2019-07-23 13:38:29 shop(INFO) - 成功获取店铺:93600792 首页.
+2019-07-23 13:38:29 decorator(DEBUG) - <function Shop.get at 0x10f188620> 耗时:0.01s
+2019-07-23 13:39:22 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-23 13:39:22 decorator(DEBUG) - <function send_http at 0x110a7ed08> 耗时:0.01s
+2019-07-23 13:39:22 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-23 13:39:22 decorator(DEBUG) - <function City.get at 0x110aae6a8> 耗时:0.01s
+2019-07-23 13:39:22 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-23 13:39:22 decorator(DEBUG) - <function send_http at 0x110a7ed08> 耗时:0.0s
+2019-07-23 13:39:22 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-23 13:39:22 decorator(DEBUG) - <function City.get_map at 0x110aae7b8> 耗时:0.0s
+2019-07-23 13:39:23 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-23 13:39:23 decorator(DEBUG) - <function send_http at 0x110a7ed08> 耗时:0.0s
+2019-07-23 13:39:23 city(INFO) - 搜索 南宁-美食-朝阳广场地铁站->南宁 关于 朝阳广场地铁站 的结果有4页.
+2019-07-23 13:39:23 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第1页 20 条数据.
+2019-07-23 13:39:23 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/93600792/review_all 缓存命中
+2019-07-23 13:39:23 decorator(DEBUG) - <function send_http at 0x110a7ed08> 耗时:0.01s
+2019-07-23 13:39:23 shop(INFO) - 成功获取店铺:93600792 首页.
+2019-07-23 13:39:23 decorator(DEBUG) - <function Shop.get at 0x110a81620> 耗时:0.01s
+2019-07-23 13:40:55 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-23 13:40:55 decorator(DEBUG) - <function send_http at 0x11155ed08> 耗时:0.01s
+2019-07-23 13:40:55 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-23 13:40:55 decorator(DEBUG) - <function City.get at 0x11158f6a8> 耗时:0.01s
+2019-07-23 13:40:55 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-23 13:40:55 decorator(DEBUG) - <function send_http at 0x11155ed08> 耗时:0.0s
+2019-07-23 13:40:55 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-23 13:40:55 decorator(DEBUG) - <function City.get_map at 0x11158f7b8> 耗时:0.0s
+2019-07-23 13:40:55 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-23 13:40:55 decorator(DEBUG) - <function send_http at 0x11155ed08> 耗时:0.0s
+2019-07-23 13:40:55 city(INFO) - 搜索 南宁-美食-朝阳广场地铁站->南宁 关于 朝阳广场地铁站 的结果有4页.
+2019-07-23 13:40:55 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第1页 20 条数据.
+2019-07-23 13:40:55 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/93600792/review_all 缓存命中
+2019-07-23 13:40:55 decorator(DEBUG) - <function send_http at 0x11155ed08> 耗时:0.01s
+2019-07-23 13:40:55 shop(INFO) - 成功获取店铺:93600792 首页.
+2019-07-23 13:40:55 decorator(DEBUG) - <function Shop.get at 0x11155f620> 耗时:0.01s
+2019-07-23 13:41:51 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-23 13:41:51 decorator(DEBUG) - <function send_http at 0x10fb10d08> 耗时:0.01s
+2019-07-23 13:41:51 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-23 13:41:51 decorator(DEBUG) - <function City.get at 0x10fb406a8> 耗时:0.01s
+2019-07-23 13:41:51 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-23 13:41:51 decorator(DEBUG) - <function send_http at 0x10fb10d08> 耗时:0.0s
+2019-07-23 13:41:51 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-23 13:41:51 decorator(DEBUG) - <function City.get_map at 0x10fb407b8> 耗时:0.0s
+2019-07-23 13:41:51 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-23 13:41:51 decorator(DEBUG) - <function send_http at 0x10fb10d08> 耗时:0.0s
+2019-07-23 13:41:51 city(INFO) - 搜索 南宁-美食-朝阳广场地铁站->南宁 关于 朝阳广场地铁站 的结果有4页.
+2019-07-23 13:41:51 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第1页 20 条数据.
+2019-07-23 13:41:51 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/93600792/review_all 缓存命中
+2019-07-23 13:41:51 decorator(DEBUG) - <function send_http at 0x10fb10d08> 耗时:0.01s
+2019-07-23 13:41:51 shop(INFO) - 成功获取店铺:93600792 首页.
+2019-07-23 13:41:51 decorator(DEBUG) - <function Shop.get at 0x10fb13620> 耗时:0.01s
+2019-07-23 13:41:52 decorator(DEBUG) - <function get_city_shop_info at 0x10fb16488> 耗时:0.77s
+2019-07-23 13:42:11 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-23 13:42:11 decorator(DEBUG) - <function send_http at 0x104048d08> 耗时:0.01s
+2019-07-23 13:42:11 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-23 13:42:11 decorator(DEBUG) - <function City.get at 0x10407a6a8> 耗时:0.01s
+2019-07-23 13:42:11 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-23 13:42:11 decorator(DEBUG) - <function send_http at 0x104048d08> 耗时:0.01s
+2019-07-23 13:42:11 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-23 13:42:11 decorator(DEBUG) - <function City.get_map at 0x10407a7b8> 耗时:0.01s
+2019-07-23 13:42:11 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-23 13:42:11 decorator(DEBUG) - <function send_http at 0x104048d08> 耗时:0.0s
+2019-07-23 13:42:11 city(INFO) - 搜索 南宁-美食-朝阳广场地铁站->南宁 关于 朝阳广场地铁站 的结果有4页.
+2019-07-23 13:42:11 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第1页 20 条数据.
+2019-07-23 13:42:11 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/93600792/review_all 缓存命中
+2019-07-23 13:42:11 decorator(DEBUG) - <function send_http at 0x104048d08> 耗时:0.01s
+2019-07-23 13:42:11 shop(INFO) - 成功获取店铺:93600792 首页.
+2019-07-23 13:42:11 decorator(DEBUG) - <function Shop.get at 0x10404b620> 耗时:0.01s
+2019-07-23 13:42:12 decorator(DEBUG) - <function get_city_shop_info at 0x10404e488> 耗时:0.76s
+2019-07-23 13:43:00 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-23 13:43:00 decorator(DEBUG) - <function send_http at 0x113a4bd08> 耗时:0.01s
+2019-07-23 13:43:00 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-23 13:43:00 decorator(DEBUG) - <function City.get at 0x113a7b6a8> 耗时:0.01s
+2019-07-23 13:43:00 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-23 13:43:00 decorator(DEBUG) - <function send_http at 0x113a4bd08> 耗时:0.0s
+2019-07-23 13:43:00 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-23 13:43:00 decorator(DEBUG) - <function City.get_map at 0x113a7b7b8> 耗时:0.0s
+2019-07-23 13:43:00 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-23 13:43:00 decorator(DEBUG) - <function send_http at 0x113a4bd08> 耗时:0.0s
+2019-07-23 13:43:00 city(INFO) - 搜索 南宁-美食-朝阳广场地铁站->南宁 关于 朝阳广场地铁站 的结果有4页.
+2019-07-23 13:43:00 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第1页 20 条数据.
+2019-07-23 13:43:00 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/93600792/review_all 缓存命中
+2019-07-23 13:43:00 decorator(DEBUG) - <function send_http at 0x113a4bd08> 耗时:0.01s
+2019-07-23 13:43:00 shop(INFO) - 成功获取店铺:93600792 首页.
+2019-07-23 13:43:00 decorator(DEBUG) - <function Shop.get at 0x113a4e620> 耗时:0.01s
+2019-07-23 13:43:01 decorator(DEBUG) - <function get_city_shop_info at 0x113a51488> 耗时:0.76s
+2019-07-23 13:44:26 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-23 13:44:26 decorator(DEBUG) - <function send_http at 0x1072e9d08> 耗时:0.01s
+2019-07-23 13:44:26 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-23 13:44:26 decorator(DEBUG) - <function City.get at 0x1073196a8> 耗时:0.02s
+2019-07-23 13:44:26 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-23 13:44:26 decorator(DEBUG) - <function send_http at 0x1072e9d08> 耗时:0.0s
+2019-07-23 13:44:26 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-23 13:44:26 decorator(DEBUG) - <function City.get_map at 0x1073197b8> 耗时:0.01s
+2019-07-23 13:44:26 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-23 13:44:26 decorator(DEBUG) - <function send_http at 0x1072e9d08> 耗时:0.01s
+2019-07-23 13:44:26 city(INFO) - 搜索 南宁-美食-朝阳广场地铁站->南宁 关于 朝阳广场地铁站 的结果有4页.
+2019-07-23 13:44:26 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第1页 20 条数据.
+2019-07-23 13:44:26 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/93600792/review_all 缓存命中
+2019-07-23 13:44:26 decorator(DEBUG) - <function send_http at 0x1072e9d08> 耗时:0.01s
+2019-07-23 13:44:26 shop(INFO) - 成功获取店铺:93600792 首页.
+2019-07-23 13:44:26 decorator(DEBUG) - <function Shop.get at 0x1072ec620> 耗时:0.01s
+2019-07-23 13:44:27 decorator(DEBUG) - <function get_city_shop_info at 0x1072ef488> 耗时:0.76s
+2019-07-23 13:44:27 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/91891330/review_all 缓存命中
+2019-07-23 13:44:27 decorator(DEBUG) - <function send_http at 0x1072e9d08> 耗时:0.01s
+2019-07-23 13:44:27 shop(INFO) - 成功获取店铺:91891330 首页.
+2019-07-23 13:44:27 decorator(DEBUG) - <function Shop.get at 0x1072ec620> 耗时:0.01s
+2019-07-23 13:44:27 decorator(DEBUG) - <function get_city_shop_info at 0x1072ef488> 耗时:0.54s
+2019-07-23 13:44:27 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/8929689/review_all 缓存命中
+2019-07-23 13:44:27 decorator(DEBUG) - <function send_http at 0x1072e9d08> 耗时:0.01s
+2019-07-23 13:44:27 shop(INFO) - 成功获取店铺:8929689 首页.
+2019-07-23 13:44:27 decorator(DEBUG) - <function Shop.get at 0x1072ec620> 耗时:0.01s
+2019-07-23 13:44:28 decorator(DEBUG) - <function get_city_shop_info at 0x1072ef488> 耗时:0.52s
+2019-07-23 13:44:28 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/130645969/review_all 缓存命中
+2019-07-23 13:44:28 decorator(DEBUG) - <function send_http at 0x1072e9d08> 耗时:0.01s
+2019-07-23 13:44:28 shop(INFO) - 成功获取店铺:130645969 首页.
+2019-07-23 13:44:28 decorator(DEBUG) - <function Shop.get at 0x1072ec620> 耗时:0.01s
+2019-07-23 13:54:43 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-23 13:54:43 decorator(DEBUG) - <function send_http at 0x104b2cd08> 耗时:0.01s
+2019-07-23 13:54:43 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-23 13:54:43 decorator(DEBUG) - <function City.get at 0x104b5c6a8> 耗时:0.01s
+2019-07-23 13:54:43 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-23 13:54:43 decorator(DEBUG) - <function send_http at 0x104b2cd08> 耗时:0.0s
+2019-07-23 13:54:43 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-23 13:54:43 decorator(DEBUG) - <function City.get_map at 0x104b5c7b8> 耗时:0.0s
+2019-07-23 13:54:43 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-23 13:54:43 decorator(DEBUG) - <function send_http at 0x104b2cd08> 耗时:0.0s
+2019-07-23 13:54:43 city(INFO) - 搜索 南宁-美食-朝阳广场地铁站->南宁 关于 朝阳广场地铁站 的结果有4页.
+2019-07-23 13:54:43 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第1页 20 条数据.
+2019-07-23 13:54:43 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/93600792/review_all 缓存命中
+2019-07-23 13:54:43 decorator(DEBUG) - <function send_http at 0x104b2cd08> 耗时:0.01s
+2019-07-23 13:54:43 shop(INFO) - 成功获取店铺:93600792 首页.
+2019-07-23 13:54:43 decorator(DEBUG) - <function Shop.get at 0x104b2f620> 耗时:0.01s
+2019-07-23 13:54:44 decorator(DEBUG) - <function get_city_shop_info at 0x104b32488> 耗时:0.74s
+2019-07-23 13:54:44 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/91891330/review_all 缓存命中
+2019-07-23 13:54:44 decorator(DEBUG) - <function send_http at 0x104b2cd08> 耗时:0.01s
+2019-07-23 13:54:44 shop(INFO) - 成功获取店铺:91891330 首页.
+2019-07-23 13:54:44 decorator(DEBUG) - <function Shop.get at 0x104b2f620> 耗时:0.01s
+2019-07-23 13:54:45 decorator(DEBUG) - <function get_city_shop_info at 0x104b32488> 耗时:0.53s
+2019-07-23 13:54:45 util.http(DEBUG) - 当前请求[SHOP]:http://www.dianping.com/shop/8929689/review_all 缓存命中
+2019-07-23 13:54:45 decorator(DEBUG) - <function send_http at 0x104b2cd08> 耗时:0.01s
+2019-07-23 13:54:45 shop(INFO) - 成功获取店铺:8929689 首页.
+2019-07-23 13:54:45 decorator(DEBUG) - <function Shop.get at 0x104b2f620> 耗时:0.01s
+2019-07-24 21:09:37 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-24 21:09:37 decorator(DEBUG) - <function send_http at 0x10d922d08> 耗时:0.01s
+2019-07-24 21:09:37 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-24 21:09:37 decorator(DEBUG) - <function City.get at 0x10d9556a8> 耗时:0.01s
+2019-07-24 21:09:37 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-24 21:09:37 decorator(DEBUG) - <function send_http at 0x10d922d08> 耗时:0.0s
+2019-07-24 21:09:37 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-24 21:09:37 decorator(DEBUG) - <function City.get_map at 0x10d9557b8> 耗时:0.0s
+2019-07-24 21:11:24 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-24 21:11:24 decorator(DEBUG) - <function send_http at 0x10fb73d08> 耗时:0.01s
+2019-07-24 21:11:24 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-24 21:11:24 decorator(DEBUG) - <function City.get at 0x10fba46a8> 耗时:0.01s
+2019-07-24 21:11:24 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-24 21:11:24 decorator(DEBUG) - <function send_http at 0x10fb73d08> 耗时:0.01s
+2019-07-24 21:11:24 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-24 21:11:24 decorator(DEBUG) - <function City.get_map at 0x10fba47b8> 耗时:0.01s
+2019-07-24 21:12:09 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-24 21:12:09 decorator(DEBUG) - <function send_http at 0x10f649d08> 耗时:0.01s
+2019-07-24 21:12:09 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-24 21:12:09 decorator(DEBUG) - <function City.get at 0x10f67a6a8> 耗时:0.01s
+2019-07-24 21:12:09 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-24 21:12:09 decorator(DEBUG) - <function send_http at 0x10f649d08> 耗时:0.0s
+2019-07-24 21:12:09 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-24 21:12:09 decorator(DEBUG) - <function City.get_map at 0x10f67a7b8> 耗时:0.0s
+2019-07-24 21:12:09 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-24 21:12:09 decorator(DEBUG) - <function send_http at 0x10f649d08> 耗时:0.01s
+2019-07-24 21:12:53 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-24 21:12:53 decorator(DEBUG) - <function send_http at 0x10dffcd08> 耗时:0.01s
+2019-07-24 21:12:53 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-24 21:12:53 decorator(DEBUG) - <function City.get at 0x10e02d6a8> 耗时:0.01s
+2019-07-24 21:12:53 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-24 21:12:53 decorator(DEBUG) - <function send_http at 0x10dffcd08> 耗时:0.0s
+2019-07-24 21:12:53 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-24 21:12:53 decorator(DEBUG) - <function City.get_map at 0x10e02d7b8> 耗时:0.0s
+2019-07-24 21:12:54 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-24 21:12:54 decorator(DEBUG) - <function send_http at 0x10dffcd08> 耗时:0.01s
+2019-07-25 09:10:51 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-25 09:10:51 decorator(DEBUG) - <function send_http at 0x104457158> 耗时:0.01s
+2019-07-25 09:10:51 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-25 09:10:51 decorator(DEBUG) - <function City.get at 0x104485f28> 耗时:0.01s
+2019-07-25 09:10:51 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-25 09:10:51 decorator(DEBUG) - <function send_http at 0x104457158> 耗时:0.0s
+2019-07-25 09:10:51 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-25 09:10:51 decorator(DEBUG) - <function City.get_map at 0x1044900d0> 耗时:0.0s
+2019-07-25 09:11:18 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-25 09:11:18 decorator(DEBUG) - <function send_http at 0x10c11d158> 耗时:0.01s
+2019-07-25 09:11:18 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-25 09:11:18 decorator(DEBUG) - <function City.get at 0x10c14bf28> 耗时:0.01s
+2019-07-25 09:11:18 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-25 09:11:18 decorator(DEBUG) - <function send_http at 0x10c11d158> 耗时:0.0s
+2019-07-25 09:11:18 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-25 09:11:18 decorator(DEBUG) - <function City.get_map at 0x10c1520d0> 耗时:0.0s
+2019-07-25 09:38:46 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-25 09:38:46 decorator(DEBUG) - <function send_http at 0x10bd0b158> 耗时:0.01s
+2019-07-25 09:38:46 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-25 09:38:46 decorator(DEBUG) - <function City.get at 0x10bd3af28> 耗时:0.01s
+2019-07-25 09:38:46 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-25 09:38:46 decorator(DEBUG) - <function send_http at 0x10bd0b158> 耗时:0.0s
+2019-07-25 09:38:46 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-25 09:38:46 decorator(DEBUG) - <function City.get_map at 0x10bd420d0> 耗时:0.0s
+2019-07-25 09:38:55 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-25 09:38:55 decorator(DEBUG) - <function send_http at 0x1121ca158> 耗时:0.01s
+2019-07-25 09:38:55 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-25 09:38:55 decorator(DEBUG) - <function City.get at 0x1121f8f28> 耗时:0.01s
+2019-07-25 09:38:55 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-25 09:38:55 decorator(DEBUG) - <function send_http at 0x1121ca158> 耗时:0.0s
+2019-07-25 09:38:55 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-25 09:38:55 decorator(DEBUG) - <function City.get_map at 0x1121ff0d0> 耗时:0.0s
+2019-07-25 09:38:55 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-25 09:38:55 decorator(DEBUG) - <function send_http at 0x1121ca158> 耗时:0.0s
+2019-07-25 09:38:55 city(INFO) - 搜索 南宁-美食-朝阳广场地铁站->南宁 关于 朝阳广场地铁站 的结果有4页.
+2019-07-25 09:38:55 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第1页 20 条数据.
+2019-07-25 09:38:55 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-25 09:38:55 decorator(DEBUG) - <function send_http at 0x1121ca158> 耗时:0.0s
+2019-07-25 09:38:55 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第2页 20 条数据.
+2019-07-25 09:38:55 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-25 09:38:55 decorator(DEBUG) - <function send_http at 0x1121ca158> 耗时:0.0s
+2019-07-25 09:38:55 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第3页 20 条数据.
+2019-07-25 09:38:55 util.http(DEBUG) - 当前请求[JSON]:http://www.dianping.com/search/map/ajax/json 缓存命中
+2019-07-25 09:38:55 decorator(DEBUG) - <function send_http at 0x1121ca158> 耗时:0.0s
+2019-07-25 09:38:55 city(INFO) - 成功获取到 南宁-美食-朝阳广场地铁站->南宁 第4页 20 条数据.
+2019-07-25 09:38:55 city(INFO) - [*] 南宁-美食-朝阳广场地铁站-全 所有数据获取完成,条数:18.
+2019-07-25 09:38:55 decorator(DEBUG) - <function City.search at 0x112201400> 耗时:0.13s
+2019-07-25 12:53:34 util.http(INFO) - url: http://www.dianping.com/nanning headers: {"Host": "www.dianping.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"}
+2019-07-25 12:55:07 util.http(INFO) - url: http://www.dianping.com/nanning headers: {"Host": "www.dianping.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"}
+2019-07-25 12:55:07 util.http(DEBUG) - 当前请求[CITY]:http://www.dianping.com/nanning 缓存命中
+2019-07-25 12:55:07 decorator(DEBUG) - <function send_http at 0x10e130158> 耗时:0.01s
+2019-07-25 12:55:07 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-25 12:55:07 decorator(DEBUG) - <function City.get at 0x10e15ff28> 耗时:0.01s
+2019-07-25 12:55:07 util.http(INFO) - url: http://www.dianping.com/search/map/keyword/224/0_1 headers: {"Host": "www.dianping.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"}
+2019-07-25 12:55:07 util.http(DEBUG) - 当前请求[MAP]:http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-25 12:55:07 decorator(DEBUG) - <function send_http at 0x10e130158> 耗时:0.01s
+2019-07-25 12:55:07 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-25 12:55:07 decorator(DEBUG) - <function City.get_map at 0x10e1660d0> 耗时:0.01s
+2019-07-25 12:55:07 util.http(INFO) - url: http://www.dianping.com/search/map/ajax/json headers: {"Host": "www.dianping.com", "X-Request": "JSON", "X-Requested-With": "XMLHttpRequest", "Accept": "application/json, text/javascript", "Origin": "http://www.dianping.com", "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"}
+2019-07-25 13:00:44 util.http(INFO) - url: http://www.dianping.com/nanning headers: {"Host": "www.dianping.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"}
+2019-07-25 13:00:44 util.http(INFO) - 当前请求[_id]: http://www.dianping.com/nanning 缓存命中
+2019-07-25 13:00:44 decorator(DEBUG) - <function send_http at 0x106957158> 耗时:0.01s
+2019-07-25 13:00:44 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-25 13:00:44 decorator(DEBUG) - <function City.get at 0x106986f28> 耗时:0.01s
+2019-07-25 13:00:44 util.http(INFO) - url: http://www.dianping.com/search/map/keyword/224/0_1 headers: {"Host": "www.dianping.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"}
+2019-07-25 13:00:44 util.http(INFO) - 当前请求[_id]: http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-25 13:00:44 decorator(DEBUG) - <function send_http at 0x106957158> 耗时:0.0s
+2019-07-25 13:00:44 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-25 13:00:44 decorator(DEBUG) - <function City.get_map at 0x10698d0d0> 耗时:0.0s
+2019-07-25 13:00:44 util.http(INFO) - url: http://www.dianping.com/search/map/ajax/json headers: {"Host": "www.dianping.com", "X-Request": "JSON", "X-Requested-With": "XMLHttpRequest", "Accept": "application/json, text/javascript", "Origin": "http://www.dianping.com", "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"} data: {"cityId": "224", "cityEnName": "nanning", "promoId": "0", "shopType": "10", "categoryId": "10", "regionId": "0", "sortMode": "2", "shopSortItem": "0", "keyword": "\u671d\u9633\u5e7f\u573a\u5730\u94c1\u7ad9", "searchType": "2", "branchGroupId": "0", "aroundShopId": "0", "shippingTypeFilterValue": "0", "page": "1"}
+2019-07-25 13:02:35 util.http(INFO) - url: http://www.dianping.com/nanning method: get headers: {"Host": "www.dianping.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"}
+2019-07-25 13:02:35 util.http(INFO) - 当前请求[_id]: http://www.dianping.com/nanning 缓存命中
+2019-07-25 13:02:35 decorator(DEBUG) - <function send_http at 0x10c559158> 耗时:0.01s
+2019-07-25 13:02:35 city(INFO) - 获取 “南宁” 首页成功.
+2019-07-25 13:02:35 decorator(DEBUG) - <function City.get at 0x10c589f28> 耗时:0.01s
+2019-07-25 13:02:35 util.http(INFO) - url: http://www.dianping.com/search/map/keyword/224/0_1 method: get headers: {"Host": "www.dianping.com", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"}
+2019-07-25 13:02:35 util.http(INFO) - 当前请求[_id]: http://www.dianping.com/search/map/keyword/224/0_1 缓存命中
+2019-07-25 13:02:35 decorator(DEBUG) - <function send_http at 0x10c559158> 耗时:0.0s
+2019-07-25 13:02:35 city(INFO) - 获取 “南宁” 地图搜索页成功
+2019-07-25 13:02:35 decorator(DEBUG) - <function City.get_map at 0x10c5900d0> 耗时:0.0s
+2019-07-25 13:02:36 util.http(INFO) - url: http://www.dianping.com/search/map/ajax/json method: post headers: {"Host": "www.dianping.com", "X-Request": "JSON", "X-Requested-With": "XMLHttpRequest", "Accept": "application/json, text/javascript", "Origin": "http://www.dianping.com", "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8", "User-Agent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"} data: {"cityId": "224", "cityEnName": "nanning", "promoId": "0", "shopType": "10", "categoryId": "10", "regionId": "0", "sortMode": "2", "shopSortItem": "0", "keyword": "\u671d\u9633\u5e7f\u573a\u5730\u94c1\u7ad9", "searchType": "2", "branchGroupId": "0", "aroundShopId": "0", "shippingTypeFilterValue": "0", "page": "1"}
